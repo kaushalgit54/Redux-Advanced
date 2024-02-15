@@ -1,0 +1,8 @@
+.App {
+  text-align: center; /* fallback for old browsers */
+     height: 100%;
+      position: relative;
+      width: 100%;
+      overflow: hidden;
+      
+}
